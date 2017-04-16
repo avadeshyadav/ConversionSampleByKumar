@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		86310A2E1EA36CA200A04CCB /* Code test - Transaction Viewer OCT2016.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 86310A2D1EA36CA200A04CCB /* Code test - Transaction Viewer OCT2016.pdf */; };
 		86980D1F1E8EC6C000CDBB3A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 86980D1E1E8EC6C000CDBB3A /* Assets.xcassets */; };
 		86980D2D1E8EC6C000CDBB3A /* ConversionSampleByKumarTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86980D2C1E8EC6C000CDBB3A /* ConversionSampleByKumarTests.swift */; };
 		86980D3C1E8EC72100CDBB3A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86980D381E8EC72100CDBB3A /* AppDelegate.swift */; };
@@ -36,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		86310A2D1EA36CA200A04CCB /* Code test - Transaction Viewer OCT2016.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Code test - Transaction Viewer OCT2016.pdf"; sourceTree = "<group>"; };
 		86980D141E8EC6C000CDBB3A /* ConversionSampleByKumar.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ConversionSampleByKumar.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		86980D1E1E8EC6C000CDBB3A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		86980D231E8EC6C000CDBB3A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -174,6 +176,7 @@
 		86980D4B1E8ECBE000CDBB3A /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				86310A2D1EA36CA200A04CCB /* Code test - Transaction Viewer OCT2016.pdf */,
 				86980D4C1E8ECBE000CDBB3A /* rates.plist */,
 				86980D4D1E8ECBE000CDBB3A /* rates1.plist */,
 				86980D4E1E8ECBE000CDBB3A /* transactions.plist */,
@@ -274,6 +277,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				86980D501E8ECBE000CDBB3A /* rates.plist in Resources */,
+				86310A2E1EA36CA200A04CCB /* Code test - Transaction Viewer OCT2016.pdf in Resources */,
 				86980D461E8EC85F00CDBB3A /* Main.storyboard in Resources */,
 				86980D511E8ECBE000CDBB3A /* rates1.plist in Resources */,
 				86980D1F1E8EC6C000CDBB3A /* Assets.xcassets in Resources */,
